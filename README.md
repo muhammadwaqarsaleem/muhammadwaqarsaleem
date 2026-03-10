@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-**AI & NLP Researcher | Full-Stack Developer | Software Engineering Student**
+**AI & NLP Researcher | Full-Stack Developer | Computer Science Student**
 
 I am a software engineer and researcher passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric applications. My current focus lies in Retrieval-Augmented Generation (RAG) architectures, Natural Language Processing, and modern web development.
 
