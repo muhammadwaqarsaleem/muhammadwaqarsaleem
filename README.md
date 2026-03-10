@@ -15,7 +15,7 @@
 
 **AI & NLP Researcher | Full-Stack Developer | Computer Science Student**
 
-I am a software engineer and researcher passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric applications. My current focus lies in Retrieval-Augmented Generation (RAG) architectures, Natural Language Processing, and modern web development.
+I am a computer scientist and researcher passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric applications. My current focus lies in Retrieval-Augmented Generation (RAG) architectures, Natural Language Processing, and modern web development.
 
 ### 🚀 What I'm Up To
 * 🔭 Currently researching and building optimized **RAG models for localized languages** (like Urdu) to contribute towards impactful journal publications.
